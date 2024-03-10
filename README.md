@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate how to use natural language proces
 ## How to install and run the project
 To install and run the project, you need to have Python 3 and pip installed on your system. You also need to install the following dependencies:
 
-• spaCy: a library for advanced NLP in Python. To install spaCy, run the following command in your terminal: `pip install spacy
+• spaCy: a library for advanced NLP in Python. To install spaCy, run the following command in your terminal: `pip install spacy`
 
 • TextBlob: a library for text processing and sentiment analysis. To install TextBlob, run the following command in your terminal: pip install textblob
 
