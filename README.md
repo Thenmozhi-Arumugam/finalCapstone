@@ -29,6 +29,3 @@ The script will then process the reviews and print the sentiment polarity and la
 
 ## Idea of the project
 This is Task 21 - Capstone Project - NLP Applications from CoGrammar/HyperionDev Bootcamp.
-
-## The resources
-The resources for the task used can be found in the attached PDF file, and there are described preprocessing steps and model.
