@@ -15,8 +15,6 @@ To install and run the project, you need to have Python 3 and pip installed on y
 
 • pandas: a library for data analysis and manipulation. To install pandas, run the following command in your terminal: `pip install pandas`
 
-• nltk: is a suite of libraries and programs for natural language processing (NLP) in Python. It provides a wide range of tools, resources, and algorithms for working with human language data. To install nltk, run the following command in your terminal: `python -m nltk.downloader all`
-
 After installing the dependencies, you can download the project files from the GitHub repository:
 
 `git clone https://github.com/Thenmozhi-Arumugam/finalCapstone.git`
