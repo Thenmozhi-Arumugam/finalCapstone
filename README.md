@@ -9,19 +9,21 @@ To install and run the project, you need to have Python 3 and pip installed on y
 
 • spaCy: a library for advanced NLP in Python. To install spaCy, run the following command in your terminal: `pip install spacy`
 
-• TextBlob: a library for text processing and sentiment analysis. To install TextBlob, run the following command in your terminal: pip install textblob
+• TextBlob: a library for text processing and sentiment analysis. To install TextBlob, run the following command in your terminal: `pip install textblob`
 
-• spacytextblob: a spaCy pipeline component for TextBlob. To install spacytextblob, run the following command in your terminal: pip install spacytextblob
+• spacytextblob: a spaCy pipeline component for TextBlob. To install spacytextblob, run the following command in your terminal: `pip install spacytextblob`
 
-• pandas: a library for data analysis and manipulation. To install pandas, run the following command in your terminal: pip install pandas
+• pandas: a library for data analysis and manipulation. To install pandas, run the following command in your terminal: `pip install pandas`
+
+• nltk: is a suite of libraries and programs for natural language processing (NLP) in Python. It provides a wide range of tools, resources, and algorithms for working with human language data. To install nltk, run the following command in your terminal: `python -m nltk.downloader all`
 
 After installing the dependencies, you can download the project files from the GitHub repository:
 
-git clone https://github.com/Thenmozhi-Arumugam/finalCapstone.git
+`git clone https://github.com/Thenmozhi-Arumugam/finalCapstone.git`
 
 To run the project, navigate to the project directory and execute the Python script:
 
-cd finalCapstone python sentiment_analysis.py
+`cd finalCapstone python sentiment_analysis.py`
 
 The script will ask you to enter the path of the CSV file that contains the product reviews. The CSV file should have a column named "reviews.text" that contains the text of the reviews. You can use the sample file "amazon_product_reviews.csv" from https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products, or you can use your own file.
 
